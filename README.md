@@ -424,7 +424,7 @@ npx expo start --clear
 
 ## 📄 **License**
 
-MIT License - see LICENSE file for details
+its totally free to use (open source)
 
 ## 🆘 **Support**
 
